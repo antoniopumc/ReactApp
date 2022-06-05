@@ -1,0 +1,39 @@
+
+.boton{
+  background-color: #cc9999;
+  color:white;
+  border: 1pt solid #e9a1a1;
+  width: 80%;
+  height: 50px;
+  margin: auto;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius:  15px;
+  
+  cursor: pointer;
+  
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  }
+  
+  .boton:hover {
+  color: #f02d6e;
+  border: 1pt solid #ff0066;
+  }
+  
+  #menu
+  {
+  
+    margin: auto;
+    max-width: 620px;
+    height: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    align-items: center;
+  }
+
+  #cora
+  {
+    width: 10px;
+    height: 10px;
+    margin: auto;
+  }

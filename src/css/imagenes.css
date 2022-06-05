@@ -1,0 +1,15 @@
+#listaimg
+{
+    margin: auto;
+    max-width: 900px;
+    display: grid;
+    grid-template-columns: auto auto auto  ;
+}
+
+.draw
+{
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}

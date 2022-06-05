@@ -1,0 +1,40 @@
+@import url(menu.css);
+@import url(imagenes.css);
+@import url(rules.css);
+body{
+background-color: #23262e;
+}
+
+
+#comopen
+{
+  text-align: center;
+  color:#3ff02d;
+  font-size: 20px;
+}
+
+#aboutme
+{
+  text-align: center;
+  color:#ff6699;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#negritas
+{
+  text-align: center;
+  color:#f02d6e;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#linea
+{
+  width: 50%;
+  height: 1px;
+  margin: auto;
+  padding-top: 10px;
+  border-top: 1px solid white;
+}
